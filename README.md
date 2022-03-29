@@ -1,7 +1,8 @@
 # Proyecto Final de curso Data Science en CoderHouse
 # Proyecto de Cluster y Clasificacións
 
-https://raw.githubusercontent.com/Juacoos/proyectofinal-coder/Imagen/tipos-de-clientes-1024x538.png
+![Imagen clientes]
+(https://raw.githubusercontent.com/Juacoos/proyectofinal-coder/Imagen/tipos-de-clientes-1024x538.png)
 
 ## CLASIFICACION DE CLIENTES EN COMERCIO
 
