@@ -1,6 +1,8 @@
 # Proyecto Final de curso Data Science en CoderHouse
 # Proyecto de Cluster y Clasificacións
 
+https://github.com/Juacoos/proyectofinal-coder/blob/main/Imagen/tipos-de-clientes-1024x538.png
+
 ## CLASIFICACION DE CLIENTES EN COMERCIO
 
 Cuando realiza la segmentación de clientes, se encuentra características similares en el comportamiento y las necesidades de cada uno. Posteriormente, se generalizan en grupos para satisfacer demandas con diversas estrategias:
