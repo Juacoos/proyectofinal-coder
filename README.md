@@ -4,7 +4,7 @@
 ![tipos-de-clientes-1024x538](https://user-images.githubusercontent.com/90065989/160716094-dc49ab59-9a8c-4e73-9c9c-55d4718f722b.png)
 
 
-## CLASIFICACION DE CLIENTES EN COMERCIO
+## CLASIFICACIóN DE CLIENTES EN COMERCIO
 
 Cuando realiza la segmentación de clientes, se encuentra características similares en el comportamiento y las necesidades de cada uno. Posteriormente, se generalizan en grupos para satisfacer demandas con diversas estrategias:
 
